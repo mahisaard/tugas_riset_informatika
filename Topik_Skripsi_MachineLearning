@@ -1,28 +1,28 @@
-Topik Skripsi: Identifikasi dan Penelitian Masalah dalam Konteks [Nama Bidang Studi]
+Topik Skripsi: Identifikasi dan Penelitian Masalah dalam Konteks Penggunaan Machine Learning dalam Diagnostik Kesehatan
 
 Identifikasi Persoalan Praktis:
 
-Dalam konteks [Nama Bidang Studi], terdapat sejumlah persoalan praktis yang perlu diselesaikan. Beberapa di antaranya termasuk:
+Dalam konteks Machine Learning, terdapat sejumlah persoalan praktis yang perlu diselesaikan. Beberapa di antaranya termasuk:
 
-[Contoh Persoalan Praktis 1]
-[Contoh Persoalan Praktis 2]
-[Contoh Persoalan Praktis 3]
-Masalah-masalah ini muncul dalam [jelaskan konteks praktis yang relevan].
+1. Penggunaan Citra Medis dalam Identifikasi Penyakit tertentu
+2. Prediksi Risiko Penyakit tertentu dengan Data Kesehatan Pasien
+3. Diagnosa Penyakit Menular dengan Analisis Gejala Pasien
+Masalah-masalah ini muncul dalam Konteks praktis yang relevan dalam penggunaan machine learning dalam diagnostik kesehatan adalah situasi di mana terdapat akses data medis yang memadai, sehingga machine learning dapat digunakan untuk meningkatkan akurasi diagnosa, memantau pasien secara berkelanjutan, memprediksi risiko penyakit, mengelola sumber daya kesehatan secara efisien, dan mendukung respons cepat terhadap penyakit menular. Penggunaan machine learning dalam konteks ini harus memperhatikan regulasi dan privasi data, serta memberikan manfaat nyata dalam bidang kesehatan baik bagi pasien maupun praktisi medis.
 
 Research Questions:
 
 Untuk menjawab persoalan praktis yang telah diidentifikasi, berikut adalah beberapa pertanyaan penelitian yang dapat diajukan:
 
-Bagaimana [aspek tertentu dari masalah] mempengaruhi [hasil atau proses tertentu] dalam [bidang studi]?
-Apa dampak dari [solusi atau tindakan tertentu] terhadap [hasil atau kondisi tertentu]?
-Apakah terdapat korelasi antara [variabel A] dan [variabel B] dalam konteks [bidang studi]?
+1. Bagaimana penggunaan model machine learning dalam diagnosa penyakit mempengaruhi akurasi diagnosa medis dalam bidang kesehatan?
+2. Apa dampak penggunaan algoritma machine learning dalam manajemen data pasien terhadap efisiensi pengelolaan informasi kesehatan? 
+3. Apakah terdapat korelasi antara penggunaan teknologi machine learning dalam pengembangan obat baru dan peningkatan keberhasilan uji klinis dalam pengobatan penyakit tertentu?
 Pertanyaan-pertanyaan ini akan membantu mendapatkan pemahaman yang lebih mendalam tentang persoalan praktis yang perlu dipecahkan.
 
 Tinjauan Kepustakaan Awal:
 
 Sebagai persiapan dalam menyusun proposal penelitian, beberapa teori yang memiliki keterkaitan dengan topik yang telah diidentifikasi adalah:
 
-[Contoh Teori 1]: Penjelasan tentang [konsep atau teori tertentu] dan bagaimana hal itu berkaitan dengan [aspek tertentu dari masalah].
-[Contoh Teori 2]: Tinjauan terhadap penelitian terkait yang telah dilakukan oleh [peneliti-peneliti terkemuka] dalam [bidang studi].
-[Contoh Teori 3]: Pendekatan [nama pendekatan] yang dapat digunakan untuk menganalisis [jenis data tertentu] dalam penelitian ini.
+1. Penjelasan tentang Batch Normalization dan RNN serta bagaimana hal itu berkaitan dengan pencatatan perubahan parameter vital pasien untuk mendeteksi pola atau gejala yang relevan dalam kesehatan pasien.
+2. Tinjauan terhadap penelitian terkait yang telah dilakukan oleh Sicen Liu, Tao Li, Haoyang Ding, Buzhou Tang, Xiaolong Wang, Qingcai Chen, Jun Yan, Yi Zhou dalam Sebuah pendekatan gabungan antara jaringan saraf rekuren dan jaringan saraf grafik untuk memprediksi formula pada periode berikutnya dalam ranah studi yang spesifik.
+3. Pendekatan Regresi Linear yang dapat digunakan untuk menganalisis Persepsi Pendidikan Kesehatan Digital di Kalangan Mahasiswa Kedokteran Eropa: Survei Metode Campuran dalam penelitian ini.
 Tinjauan kepustakaan ini akan membantu dalam merumuskan kerangka konseptual dan metodologi penelitian yang tepat.
